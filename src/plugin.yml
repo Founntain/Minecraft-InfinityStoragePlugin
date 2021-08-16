@@ -1,0 +1,8 @@
+name: InfinityStorage
+main: de.founntain.infinitystorage.InfinityStorage
+version: 1.0
+api-version: 1.17
+commands:
+  openstorage:
+    description: Opens your storage
+    usage: /openstorage
